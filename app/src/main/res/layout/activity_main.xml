@@ -14,4 +14,20 @@
         tools:layout_editor_absoluteX="8dp"
         tools:layout_editor_absoluteY="-6dp" />
 
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:text="Click to select network"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="42dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="90dp" />
+
 </android.support.constraint.ConstraintLayout>
